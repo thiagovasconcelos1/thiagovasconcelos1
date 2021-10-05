@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently studying computer science
+- 🔭 I’m currently studying computer science 6/8.
 - 🌱 I’m currently learning:
 
 
