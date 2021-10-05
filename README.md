@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there, I'm Thiago 😊👋
 
-<!--
-**thiagovasconcelos1/thiagovasconcelos1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently studying computer science
+- 🌱 I’m currently learning:
+
+
+
+ <!--xiconsx-->
+   
+<p align="left">
+     <img src="https://github.com/thiagovasconcelos1/DigitalInovationOne/blob/1ee0e7782624ecd12ab011fa9f737954ab2744e0/assets/c1.png" tittle="c1" height="134" width="150">   
+  <img src="https://github.com/thiagovasconcelos1/DigitalInovationOne/blob/1ee0e7782624ecd12ab011fa9f737954ab2744e0/assets/.net.png" tittle="dotnet" height="134" width="150">                                                          
+</p>
+
+
+building ...⌛
