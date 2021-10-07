@@ -27,18 +27,25 @@
    
 <p align="left">
      <a href="https://github.com/thiagovasconcelos1/CSharp"</a>
-     <img src="https://github.com/thiagovasconcelos1/CSharp/blob/main/Asset/c1.png" tittle="c1" height="134" width="134">   
+     <img src="https://github.com/thiagovasconcelos1/thiagovasconcelos1/blob/229644f970f130901573ac2fd1a8a53ac4105ee3/Assets/c1.png" tittle="c#icon" height="134" width="134">   
   <img src="https://github.com/thiagovasconcelos1/DigitalInovationOne/blob/1ee0e7782624ecd12ab011fa9f737954ab2744e0/assets/.net.png" tittle="dotnet" height="134" width="134"></h3></br>
 
 
-
+<!--gif de coding--<img src="https://github.com/thiagovasconcelos1/thiagovasconcelos1/blob/229644f970f130901573ac2fd1a8a53ac4105ee3/Assets/code.gif" tittle="gif" height="100" width="100">>
 
 
 <!--building-->
-<!--<img src=""-->
 
-## BUILDING ...⌛
-<img src="https://github.com/thiagovasconcelos1/CSharp/blob/7f8f707d9913be498fbdae7f5f4fa1dc760a1ede/Asset/code.gif" tittle="gif" height="100" width="100">
-<!--contato gmail<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">>
+
+ 
+##  BUILDING<img src="https://github.com/thiagovasconcelos1/thiagovasconcelos1/blob/d9a339e2e8bdda422fb7a74c33b2988a6d3cc973/Assets/loadingbar.gif"  tittle="gifloadingbar" height="50" width="100"/>
+
+<p align="center">
+ <img src="https://github.com/thiagovasconcelos1/thiagovasconcelos1/blob/229644f970f130901573ac2fd1a8a53ac4105ee3/Assets/loading.gif"  tittle="gifloading" height="600" width="600"/>
+ </p>
+
+
+
+<!--adicionar dps contato gmail<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">>
 
 
