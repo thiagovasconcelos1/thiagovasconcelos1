@@ -1,5 +1,5 @@
 ## Hi there, I'm Thiago 😊👋
-<img src="https://github.com/thiagovasconcelos1/CSharp/blob/08839ad297a55f0a2c828e4e9f72277f1bc48a4e/Asset/wpp.png" alt="wpp" tittle="wpp">
+<img src="https://github.com/thiagovasconcelos1/CSharp/blob/7f8f707d9913be498fbdae7f5f4fa1dc760a1ede/Asset/wpp.png" tittle="wpp" >
 
 
 <h3>
@@ -38,6 +38,7 @@
 <!--<img src=""-->
 
 ## BUILDING ...⌛
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://github.com/thiagovasconcelos1/CSharp/blob/7f8f707d9913be498fbdae7f5f4fa1dc760a1ede/Asset/code.gif" tittle="gif" height="100" width="100">
+<!--contato gmail<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">>
 
 
