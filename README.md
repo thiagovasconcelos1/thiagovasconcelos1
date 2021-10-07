@@ -4,9 +4,9 @@
 
 <h3>
  
-- 🔭 I’m currently studying computer science.</br>
-- skills:</br>
--Basic:
+- My mane is Thiago Vasconcelos and I'm a software developer from Brazil.
+- 🔭 I’m currently studying computer science.
+- Basic skills:
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -14,27 +14,30 @@
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></br>
 
--intermediary:
+- Intermediate skills:
 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"></br>
-- 🌱 I’m currently studying:</h3>
 
-
-
- <!--xiconsx-->
+- 🌱 I’m currently studying:
    
 <p align="left">
      <a href="https://github.com/thiagovasconcelos1/CSharp"</a>
      <img src="https://github.com/thiagovasconcelos1/CSharp/blob/main/Asset/c1.png" tittle="c1" height="134" width="134">   
-  <img src="https://github.com/thiagovasconcelos1/DigitalInovationOne/blob/1ee0e7782624ecd12ab011fa9f737954ab2744e0/assets/.net.png" tittle="dotnet" height="134" width="134">     </p></br>
+  <img src="https://github.com/thiagovasconcelos1/DigitalInovationOne/blob/1ee0e7782624ecd12ab011fa9f737954ab2744e0/assets/.net.png" tittle="dotnet" height="134" width="134"></h3></br>
+
+
+
+
 
 <!--building-->
 <!--<img src=""-->
 
 ## BUILDING ...⌛
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+
+
